@@ -40,7 +40,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "@angular/core": "2.0.2"
+    "@angular/core": "^2.0.0"
   },
   "dependencies": {},
   "devDependencies": {
