@@ -3,10 +3,10 @@
   "version": "3.0.0",
   "description": "Disqus integration with Angular 2.",
   "files": [
-    "lib"
+    "src"
   ],
-  "main": "./lib/disqus.module.js",
-  "typings": "./lib/disqus.module.d.ts",
+  "main": "./src/disqus.module.ts",
+  "typings": "./src/disqus.module.ts",
   "directories": {},
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server -c bs-config.js\"",
